@@ -1,14 +1,14 @@
 # Animasyonlu-Satranc-Oyunu
 
-SATRANÇ OYUNU:
+## SATRANÇ :
 
 Javascript, CSS ve HTML teknolojilerini kullanarak geliştirdiğim bu web tasarım uygulaması animasyon içeren bir satranç oyunudur.
 
-Nasıl Oynanır:
+## Nasıl Oynanır:
 
 Bilgisayarınızın faresini kullanarak oynayabilirsiniz. Fare oynanmak istenilen satranç taşının bulunduğu kareye  götürüldüğünde kare mavi renk alacak ve taş beyaz renk alıp ön plana çıkacaktır. Taşın gidebileceği kareler ise  yeşil renk ile renklenecektir. Fare ile satranç taşını yerleştirmek istediğiniz kareye geldiğinizde kare titreşime geçecektir. Böylelikle oynı oynarken yanlış hamle yapma ihtimaliniz düşmüş olacaktır.
 
-Oyun İçi Görüntüler:
+## Oyun İçi Görüntüler:
 
 ![F1](https://user-images.githubusercontent.com/55049795/117953478-b9a63380-b31e-11eb-852e-a1133967ff87.png)
 
@@ -21,9 +21,5 @@ Hamle sırası ilk olarak beyazdadır. Hamleler daha sonsarınsa ise sırasıyla
 
 
 
-
-Yazar:
-
-Melis VARAN
 
  
