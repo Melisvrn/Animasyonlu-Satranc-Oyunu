@@ -15,7 +15,7 @@ Bilgisayarınızın faresini kullanarak oynayabilirsiniz. Fare oynanmak istenile
 
 ![F4](https://user-images.githubusercontent.com/55049795/117953673-ece8c280-b31e-11eb-963a-632f848219fa.png)
 
-Hamle sırası ilk olarak beyazdadır. Hamleler daha sonsarınsa ise sırasıyla devam etmektedir. Resimde de görüldüğü gibi hamle sırası kimde ise buton içerisinde belirtilmektedir.
+Hamle sırası ilk olarak beyazdadır. Hamleler daha sonrasında ise sırasıyla devam etmektedir. Resimde de görüldüğü gibi hamle sırası kimde ise buton içerisinde belirtilmektedir.
 
    ![F5](https://user-images.githubusercontent.com/55049795/117954947-308ffc00-b320-11eb-9573-c91f0424df5e.png)
 
